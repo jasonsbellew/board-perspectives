@@ -1,23 +1,24 @@
-# Board Perspectives
+Board Perspectives
 
 Board Perspectives helps business owners, founders, operators, and managers pressure-test major decisions before spending money or committing resources.
 
 It is designed for decisions where the answer is not obvious: capital allocation, hiring, product launches, software builds, marketing investments, acquisitions, pricing, and strategic tradeoffs.
 
-## What It Helps With
+Instead of giving generic advice, Board Perspectives reviews a decision through structured advisor-style lenses, identifies weak assumptions, quantifies the economics when possible, and produces a clear recommendation with next actions and a board vote.
 
-- Capital allocation
-- Hiring decisions
-- Product or service launches
-- Software or equipment purchases
-- Marketing investments
-- Acquisitions
-- Pricing decisions
-- Strategic tradeoffs
+What It Helps With
+Capital allocation
+Hiring decisions
+Product or service launches
+Software or equipment purchases
+Marketing investments
+Acquisitions
+Pricing decisions
+Strategic tradeoffs
+Core Prompt
 
-## Core Prompt
+Copy and paste this into Board Perspectives:
 
-```text
 Conduct a full board review.
 
 Decision:
@@ -38,21 +39,14 @@ Risks:
 
 Goal:
 What would the board recommend and why?
-```
-
-## Example Use Cases
-
-- Should I launch this product?
-- Should I hire now or stay lean?
-- Should I build this software tool?
-- Should I spend money on marketing, hiring, operations, or cash reserves?
-- Should I acquire a competitor?
-
-## Example Prompts
-
-### Product or Service Launch
-
-```text
+Example Use Cases
+Should I launch this product?
+Should I hire now or stay lean?
+Should I build this software tool?
+Should I spend money on marketing, hiring, operations, or cash reserves?
+Should I acquire a competitor?
+Example Prompts
+Product or Service Launch
 Conduct a full board review.
 
 Decision:
@@ -69,11 +63,7 @@ Current evidence:
 
 Goal:
 Tell me whether to proceed, test small first, delay, or kill it.
-```
-
-### Software Build
-
-```text
+Software Build
 Pressure-test this idea:
 I want to spend [$ amount] building a software tool because [reason].
 
@@ -82,11 +72,7 @@ Current evidence:
 
 Recommendation needed:
 Should I build it, test first, delay, or kill it?
-```
-
-### Capital Allocation
-
-```text
+Capital Allocation
 Conduct a full board review.
 
 Decision:
@@ -104,11 +90,7 @@ Context:
 
 Goal:
 Which option creates the best risk-adjusted return?
-```
-
-### Hiring Decision
-
-```text
+Hiring Decision
 Conduct a hiring review.
 
 Role:
@@ -125,26 +107,25 @@ Current bottleneck:
 
 Goal:
 Should I hire now, hire with conditions, run a trial period, delay, or decline?
-```
-
-## What a Good Review Should Include
+What a Good Review Should Include
 
 A strong Board Perspectives review should identify:
 
-- Known inputs
-- Missing inputs
-- Weak assumptions
-- Economics or break-even logic when possible
-- Upside and downside risk
-- Advisor agreement and disagreement
-- Clear next actions
-- A final decision
-- A board vote
+Known inputs
+Missing inputs
+Weak assumptions
+Economics or break-even logic when possible
+Upside and downside risk
+Advisor agreement and disagreement
+Clear next actions
+A final decision
+A board vote
+Try Board Perspectives
 
-## Try Board Perspectives
+Use Board Perspectives here:
 
-[Add GPT link here]
+https://chatgpt.com/g/g-6a29683f1f948191a1b1eee89a9d7d44-board-perspectives
 
-## Notes
+Notes
 
 Board Perspectives is intended for business decision support and strategic review. It is not legal, medical, tax, or individualized financial advice.
